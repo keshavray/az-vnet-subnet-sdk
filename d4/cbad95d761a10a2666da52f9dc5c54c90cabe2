@@ -1,0 +1,39 @@
+requirements.txt
+  s_c7f7f7b7360994::t_0068b89ef3aa37 1-3
+README.md
+  s_f8144bb9e36b08::t_3edae751d30c7f 5,21,45
+  s_f8144bb9e36b08::t_e48955d85e71ad 2-4,6-20,22-44,46-61
+.gitignore
+  s_f8144bb9e36b08::t_9e5652e37654a5 1-9
+provision_network.py
+  s_f8144bb9e36b08::t_c49639a92b7afb 1-93
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "d4cbad95d761a10a2666da52f9dc5c54c90cabe2",
+  "prompts": {},
+  "humans": {
+    "h_d079fd78837e3c": {
+      "author": "Keshav Ray <keshavray@RSI-19649.local>"
+    }
+  },
+  "sessions": {
+    "s_c7f7f7b7360994": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "80e577eb-abab-4e5d-a210-2c29a0d54039",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Keshav Ray <keshavray@RSI-19649.local>"
+    },
+    "s_f8144bb9e36b08": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "752528fe-04be-4226-a863-7f48897e26dd",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Keshav Ray <keshavray@RSI-19649.local>"
+    }
+  }
+}
