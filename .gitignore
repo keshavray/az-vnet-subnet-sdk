@@ -1,0 +1,9 @@
+# Local Azure state (contains subscription ID and resource IDs)
+state/
+
+# Virtual environment
+.venv/
+
+# Python artifacts
+__pycache__/
+*.pyc
